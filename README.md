@@ -61,11 +61,12 @@ An artificially generated dataset that simulates real-world client profiles with
 
 ## 📈 Conclusion
 ### 🔷 3D Interactive Cluster Plot
-
+<img width="1454" height="781" alt="newplot" src="https://github.com/user-attachments/assets/e1244b3e-707a-49dd-8f86-0f3b2dcb02a2" />
 
 ---
 
 ### 📊 Customer Segments by Count
+<img width="887" height="513" alt="Screenshot 2025-07-22 at 10 41 28 PM" src="https://github.com/user-attachments/assets/51b5f67e-268b-40f4-a47a-5493a25194eb" />
 
 
 ---
